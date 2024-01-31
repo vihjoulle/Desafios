@@ -1,0 +1,84 @@
+body{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.IconEmpresa{
+    text-align: center;
+    padding-top: 215px;
+}
+
+.TituloDaEmpresa{
+    color: #000;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.SubtituloEmpresa{
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.EfeitoSubtitulo{
+    color: #603813;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.EspacoentreBotoes{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.botaoLogin{
+    width: 280px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 60px;
+    background: #603813;
+    margin-bottom: 25px;
+}
+
+.StyleBotãoLogin{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.botaoCadastrar{
+    width: 280px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 60px;
+    background: #603813;
+}
+
+.StyleBotãoCadastrar{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
